@@ -29,3 +29,10 @@ Spawn new docker container with vi
 ```shell
 docker run -it --name vi debian
 ```
+
+## Timeline
+
+- add gRPC and endpoints as API
+- Connect Docker containers to K8
+- Add Docker multistage build
+- Publish and stage K8 build to GCP
